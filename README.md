@@ -10,24 +10,19 @@ To develop a python control code to move the mobilerobot along the predefined pa
 ## Procedure
 
 Step1:
-
-<br/>
+book the slot
 
 Step2:
-
-<br/>
+go and add program
 
 Step3:
-
-<br/>
+take the robot
 
 Step4:
-
-<br/>
+try it and take video
 
 Step5:
-
-<br/>
+submit it on github
 
 ## Program
 ```python
